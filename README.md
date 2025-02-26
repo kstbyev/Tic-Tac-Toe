@@ -6,14 +6,14 @@ Tic Tac Toe is a classic two-player game where players take turns marking a spac
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/204d4be9-5032-48ec-95d8-c50d4afa44fa" width="200" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/5eed92a6-72a1-402a-bbb0-eb8f9e62a128" width="250" alt="App Demo">
+  <img src="https://github.com/user-attachments/assets/63947454-1764-4b61-9a74-b9d43ebcefa6" width="250" alt="App Demo2">
 </p>
 
 ## 🎥 Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5eed92a6-72a1-402a-bbb0-eb8f9e62a128" width="250" alt="App Demo">
-  <img src="https://github.com/user-attachments/assets/63947454-1764-4b61-9a74-b9d43ebcefa6" width="250" alt="App Demo2">
+  <img src="https://github.com/user-attachments/assets/8e100ae5-b97d-452b-800b-c85bd52b344" width="250" alt="App Demo">
 </p>
 
 
